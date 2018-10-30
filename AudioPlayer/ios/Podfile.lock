@@ -1,0 +1,20 @@
+PODS:
+  - RNAudioStreaming (2.3.2):
+    - RNAudioStreaming/Main (= 2.3.2)
+  - RNAudioStreaming/Main (2.3.2):
+    - RNAudioStreaming/StreamingKit
+  - RNAudioStreaming/StreamingKit (2.3.2)
+
+DEPENDENCIES:
+  - RNAudioStreaming (from `../node_modules/react-native-audio-streaming`)
+
+EXTERNAL SOURCES:
+  RNAudioStreaming:
+    :path: "../node_modules/react-native-audio-streaming"
+
+SPEC CHECKSUMS:
+  RNAudioStreaming: 91c746c78302a087d20f2ad093f258717a00fa4b
+
+PODFILE CHECKSUM: 9d5d708bb293497d13b5929b0ba5326cb550d2b0
+
+COCOAPODS: 1.5.0

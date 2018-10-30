@@ -1,0 +1,3 @@
+rootProject.name = 'IntegrateWithIOS'
+
+include ':app'
